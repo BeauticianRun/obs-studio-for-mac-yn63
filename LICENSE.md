@@ -1,4 +1,4 @@
-# 
+# Enhance OBS Studio for macOS with advanced OBS Studio for macOS Addon | real-time-effects + keyframe-animation, the #1 addon. Includes real-time-effects and keyframe-animation for
 
 
 
